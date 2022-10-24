@@ -1,0 +1,21 @@
+##Install Python
+https://python.org/downloads/windows/
+    **It comes preinstalled on Mac and Linux
+
+## Install Selenium
+pip install selenium
+
+## Upgrade Selenium
+pip install --upgrade selenium
+
+## Install Drivers
+Search for "selenium driver, 'insert your explorer here'"
+or use one of the following
+Mozilla Firefox 
+    https://github.com/mozilla/geckodriver/releases
+Google Chrome 
+    https://sites.google.com/a/chromium.org/chromedriver/downloads
+Microsoft Edge 
+    https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+Apple Safari
+    https://webkit.org/blog/6900/webdriver-support-in-­safari-10/
