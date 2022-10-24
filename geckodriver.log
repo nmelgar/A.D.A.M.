@@ -348,3 +348,654 @@ DevTools listening on ws://127.0.0.1:38783/devtools/browser/31b80c8f-c315-4306-8
 JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1666638197180	Marionette	INFO	Stopped listening on port 34277
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666644415051	geckodriver	INFO	Listening on 127.0.0.1:53335
+1666644415474	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYz8VX0"
+Gtk-Message: 15:46:55.556: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:46:55.559: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666644416242	Marionette	INFO	Marionette enabled
+1666644416269	Marionette	INFO	Listening on port 37603
+Read port: 37603
+WebDriver BiDi listening on ws://127.0.0.1:60023
+1666644416361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYz8VX0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60023/devtools/browser/bc70f523-413f-44dc-b708-5537762c0d9c
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666644431034	Marionette	INFO	Stopped listening on port 37603
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666644498736	geckodriver	INFO	Listening on 127.0.0.1:45417
+1666644499194	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileY4BUBo"
+Gtk-Message: 15:48:19.267: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:48:19.268: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666644499919	Marionette	INFO	Marionette enabled
+1666644499922	Marionette	INFO	Listening on port 41443
+Read port: 41443
+WebDriver BiDi listening on ws://127.0.0.1:44339
+1666644500517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY4BUBo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44339/devtools/browser/2073c2ae-bd02-46c4-b6e6-7701f5f3c1d1
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 36634, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:36634): GLib-GObject-CRITICAL **: 15:50:29.976: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 36634, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:36634): GLib-GObject-CRITICAL **: 15:50:29.976: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 36634, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:36634): GLib-GObject-CRITICAL **: 15:50:29.977: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 36634, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:36634): GLib-GObject-CRITICAL **: 15:50:29.977: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 36634, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:36634): GLib-GObject-CRITICAL **: 15:50:30.043: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 36634, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:36634): GLib-GObject-CRITICAL **: 15:50:30.082: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 36634, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:36634): GLib-GObject-CRITICAL **: 15:50:30.083: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 36634, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:36634): GLib-GObject-CRITICAL **: 15:50:41.335: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 36634, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:36634): GLib-GObject-CRITICAL **: 15:54:13.010: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666644891708	Marionette	INFO	Stopped listening on port 41443
+1666644894203	geckodriver	INFO	Listening on 127.0.0.1:54785
+1666644894654	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZrqTxS"
+Gtk-Message: 15:54:54.733: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:54:54.734: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666644895460	Marionette	INFO	Marionette enabled
+1666644895470	Marionette	INFO	Listening on port 33075
+Read port: 33075
+WebDriver BiDi listening on ws://127.0.0.1:33255
+1666644896122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZrqTxS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33255/devtools/browser/8682f134-ba27-4a66-b3e7-f3b7e13ab95c
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666644959151	geckodriver	INFO	Listening on 127.0.0.1:57429
+1666644959618	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMVZIsL"
+Gtk-Message: 15:55:59.696: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:55:59.698: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666644960348	Marionette	INFO	Marionette enabled
+1666644960352	Marionette	INFO	Listening on port 43283
+Read port: 43283
+WebDriver BiDi listening on ws://127.0.0.1:40159
+1666644960964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMVZIsL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40159/devtools/browser/29f3eaee-c684-4058-87f9-a6d654210b8f
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666645141327	geckodriver	INFO	Listening on 127.0.0.1:58709
+1666645141790	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGktuN3"
+Gtk-Message: 15:59:01.863: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:59:01.865: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666645142511	Marionette	INFO	Marionette enabled
+1666645142514	Marionette	INFO	Listening on port 45559
+Read port: 45559
+WebDriver BiDi listening on ws://127.0.0.1:41669
+1666645143142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGktuN3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41669/devtools/browser/94f63987-a442-4b25-9700-50d67c7927e2
+1666645146166	geckodriver	INFO	Listening on 127.0.0.1:59143
+1666645146643	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBsq5l0"
+Gtk-Message: 15:59:06.741: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:59:06.745: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666645147546	Marionette	INFO	Marionette enabled
+1666645147549	Marionette	INFO	Listening on port 41377
+WebDriver BiDi listening on ws://127.0.0.1:52797
+Read port: 41377
+Read port: 41377
+1666645149808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBsq5l0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52797/devtools/browser/f495f779-0fc3-41dc-b06f-f316c5ac00be
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666645160876	Marionette	INFO	Stopped listening on port 41377
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666645193223	geckodriver	INFO	Listening on 127.0.0.1:52463
+1666645193690	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletmoyt2"
+Gtk-Message: 15:59:53.763: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:59:53.765: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666645194411	Marionette	INFO	Marionette enabled
+1666645194414	Marionette	INFO	Listening on port 43041
+Read port: 43041
+WebDriver BiDi listening on ws://127.0.0.1:50795
+1666645195090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletmoyt2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50795/devtools/browser/96ee112b-0e5e-4e4b-9f87-9276e962c740
+1666645198191	geckodriver	INFO	Listening on 127.0.0.1:50115
+1666645198763	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBu2SZW"
+Gtk-Message: 15:59:58.845: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:59:58.846: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666645199601	Marionette	INFO	Marionette enabled
+1666645199604	Marionette	INFO	Listening on port 33053
+WebDriver BiDi listening on ws://127.0.0.1:39257
+Read port: 33053
+1666645200332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBu2SZW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39257/devtools/browser/4a3c94dc-ecf5-4783-a9c6-12b6e2fa2cf1
+1666645207765	Marionette	INFO	Stopped listening on port 33053
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666645210387	Marionette	INFO	Stopped listening on port 43041
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666645385423	geckodriver	INFO	Listening on 127.0.0.1:54765
+1666645385878	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFBPiCW"
+Gtk-Message: 16:03:05.950: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:03:05.952: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666645386596	Marionette	INFO	Marionette enabled
+1666645386599	Marionette	INFO	Listening on port 46405
+WebDriver BiDi listening on ws://127.0.0.1:57149
+Read port: 46405
+1666645387205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFBPiCW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57149/devtools/browser/c1027627-2e1d-4a93-8ba1-66c2f34d35fc
+1666645390123	geckodriver	INFO	Listening on 127.0.0.1:53169
+1666645390602	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4Zvq3g"
+Gtk-Message: 16:03:10.675: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:03:10.677: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666645391355	Marionette	INFO	Marionette enabled
+1666645391359	Marionette	INFO	Listening on port 41609
+Read port: 41609
+WebDriver BiDi listening on ws://127.0.0.1:56755
+1666645391445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4Zvq3g/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56755/devtools/browser/5c94bc38-e101-4f28-920b-e3b3676bb939
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666645472677	geckodriver	INFO	Listening on 127.0.0.1:37411
+1666645473138	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile95Si2t"
+Gtk-Message: 16:04:33.212: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:04:33.214: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666645473864	Marionette	INFO	Marionette enabled
+1666645473867	Marionette	INFO	Listening on port 45407
+Read port: 45407
+WebDriver BiDi listening on ws://127.0.0.1:60889
+1666645474461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile95Si2t/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60889/devtools/browser/c6d1130e-e829-46fd-8cc5-4c2bdead0fda
+1666645477846	geckodriver	INFO	Listening on 127.0.0.1:42369
+1666645478312	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAYLzWL"
+Gtk-Message: 16:04:38.388: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:04:38.390: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666645479055	Marionette	INFO	Marionette enabled
+1666645479058	Marionette	INFO	Listening on port 42101
+Read port: 42101
+WebDriver BiDi listening on ws://127.0.0.1:56725
+1666645479165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAYLzWL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56725/devtools/browser/998e752c-6a5e-4835-ba70-9e02d0ab7d16
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666645913137	geckodriver	INFO	Listening on 127.0.0.1:55383
+1666645913574	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewfosCu"
+Gtk-Message: 16:11:53.649: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:11:53.651: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666645914298	Marionette	INFO	Marionette enabled
+1666645914301	Marionette	INFO	Listening on port 40685
+Read port: 40685
+WebDriver BiDi listening on ws://127.0.0.1:52277
+1666645914910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewfosCu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52277/devtools/browser/36195218-f371-4a92-95ce-d1bae828dc57
+1666645918017	geckodriver	INFO	Listening on 127.0.0.1:43583
+1666645918454	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezR26B8"
+Gtk-Message: 16:11:58.527: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:11:58.529: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666645919226	Marionette	INFO	Marionette enabled
+1666645919230	Marionette	INFO	Listening on port 40979
+Read port: 40979
+WebDriver BiDi listening on ws://127.0.0.1:53999
+1666645919330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezR26B8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53999/devtools/browser/7bc87e73-99be-4842-97b6-35455595cd32
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666645939115	Marionette	INFO	Stopped listening on port 40979
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666645940426	Marionette	INFO	Stopped listening on port 40685
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666646846323	geckodriver	INFO	Listening on 127.0.0.1:43819
+1666646846786	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0f4OVI"
+Gtk-Message: 16:27:26.860: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:27:26.862: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666646847511	Marionette	INFO	Marionette enabled
+1666646847515	Marionette	INFO	Listening on port 34817
+Read port: 34817
+WebDriver BiDi listening on ws://127.0.0.1:50519
+1666646848083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0f4OVI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50519/devtools/browser/402ec657-4c7c-4736-b855-8224c16eb8be
+1666646851084	geckodriver	INFO	Listening on 127.0.0.1:58115
+1666646851550	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegRzeNc"
+Gtk-Message: 16:27:31.622: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:27:31.624: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666646852315	Marionette	INFO	Marionette enabled
+1666646852319	Marionette	INFO	Listening on port 37607
+Read port: 37607
+WebDriver BiDi listening on ws://127.0.0.1:50587
+1666646852406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegRzeNc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50587/devtools/browser/0cb49181-47ab-46b5-bbed-56962bbf0a7a
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666646866486	Marionette	INFO	Stopped listening on port 37607
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1666646872362	Marionette	INFO	Stopped listening on port 34817
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666647664164	geckodriver	INFO	Listening on 127.0.0.1:50467
+1666647664630	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU52EfN"
+Gtk-Message: 16:41:04.702: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:41:04.704: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666647665347	Marionette	INFO	Marionette enabled
+1666647665351	Marionette	INFO	Listening on port 40511
+WebDriver BiDi listening on ws://127.0.0.1:40669
+Read port: 40511
+1666647665920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU52EfN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40669/devtools/browser/b905453f-7832-419e-8030-a4ac0c5d1bdb
+1666647669184	geckodriver	INFO	Listening on 127.0.0.1:48511
+1666647669676	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9pR5QY"
+Gtk-Message: 16:41:09.749: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:41:09.750: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666647670419	Marionette	INFO	Marionette enabled
+1666647670422	Marionette	INFO	Listening on port 33693
+Read port: 33693
+WebDriver BiDi listening on ws://127.0.0.1:40371
+1666647670536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9pR5QY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40371/devtools/browser/cb515540-a0e9-4569-baee-2e586e522336
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666647807024	geckodriver	INFO	Listening on 127.0.0.1:52697
+1666647807482	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejgdAmc"
+Gtk-Message: 16:43:27.554: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:43:27.556: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666647808207	Marionette	INFO	Marionette enabled
+1666647808210	Marionette	INFO	Listening on port 37641
+Read port: 37641
+WebDriver BiDi listening on ws://127.0.0.1:54175
+1666647808829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejgdAmc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54175/devtools/browser/9f417059-ae69-46ad-b5bf-9f14d220dec6
+1666647812087	geckodriver	INFO	Listening on 127.0.0.1:58241
+1666647812514	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8IElmp"
+Gtk-Message: 16:43:32.589: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:43:32.590: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666647813258	Marionette	INFO	Marionette enabled
+1666647813261	Marionette	INFO	Listening on port 34951
+Read port: 34951
+WebDriver BiDi listening on ws://127.0.0.1:39803
+1666647813360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8IElmp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39803/devtools/browser/238c9b1b-4aa7-4c41-9597-dedd01ab6330
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666647830311	Marionette	INFO	Stopped listening on port 34951
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666647831327	Marionette	INFO	Stopped listening on port 37641
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666647867342	geckodriver	INFO	Listening on 127.0.0.1:57621
+1666647867806	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7ukOuS"
+Gtk-Message: 16:44:27.879: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:44:27.881: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666647868530	Marionette	INFO	Marionette enabled
+1666647868534	Marionette	INFO	Listening on port 45359
+Read port: 45359
+WebDriver BiDi listening on ws://127.0.0.1:34645
+1666647869091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7ukOuS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34645/devtools/browser/4ec5133e-4cba-4591-a837-c1d3561fa7ba
+1666647872000	geckodriver	INFO	Listening on 127.0.0.1:54087
+1666647872434	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3Jl5a2"
+Gtk-Message: 16:44:32.509: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:44:32.511: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666647873172	Marionette	INFO	Marionette enabled
+1666647873176	Marionette	INFO	Listening on port 33885
+Read port: 33885
+WebDriver BiDi listening on ws://127.0.0.1:38089
+1666647873870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3Jl5a2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38089/devtools/browser/9da7aa57-ed8b-49f9-a17e-ddc5e1085df4
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666647905759	Marionette	INFO	Stopped listening on port 45359
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666647908339	Marionette	INFO	Stopped listening on port 33885
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666648189587	geckodriver	INFO	Listening on 127.0.0.1:41285
+1666648190054	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGoAFHv"
+Gtk-Message: 16:49:50.127: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:49:50.129: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666648190775	Marionette	INFO	Marionette enabled
+1666648190779	Marionette	INFO	Listening on port 41531
+Read port: 41531
+WebDriver BiDi listening on ws://127.0.0.1:41739
+1666648191333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGoAFHv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41739/devtools/browser/cd9c34a8-9aae-4123-bd59-e879a5b67582
+1666648194332	geckodriver	INFO	Listening on 127.0.0.1:52093
+1666648194766	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHW096H"
+Gtk-Message: 16:49:54.839: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:49:54.841: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666648195496	Marionette	INFO	Marionette enabled
+1666648195499	Marionette	INFO	Listening on port 33095
+Read port: 33095
+WebDriver BiDi listening on ws://127.0.0.1:50499
+1666648196145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHW096H/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50499/devtools/browser/668d1b8b-eb3f-42e8-a06a-2b4a155c61ab
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666648238237	Marionette	INFO	Stopped listening on port 33095
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666648244545	Marionette	INFO	Stopped listening on port 41531
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666648321255	geckodriver	INFO	Listening on 127.0.0.1:38999
+1666648321710	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6C41t8"
+Gtk-Message: 16:52:01.782: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:52:01.784: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666648322433	Marionette	INFO	Marionette enabled
+1666648322437	Marionette	INFO	Listening on port 38791
+Read port: 38791
+WebDriver BiDi listening on ws://127.0.0.1:53901
+1666648323024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6C41t8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53901/devtools/browser/3bc384f3-0245-4b64-acb4-44034c6c67b1
+1666648326468	geckodriver	INFO	Listening on 127.0.0.1:52047
+1666648326923	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6WfD85"
+Gtk-Message: 16:52:06.998: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:52:07.000: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666648327665	Marionette	INFO	Marionette enabled
+1666648327668	Marionette	INFO	Listening on port 45915
+Read port: 45915
+WebDriver BiDi listening on ws://127.0.0.1:45085
+1666648328361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6WfD85/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45085/devtools/browser/8e714651-e0c3-4f67-bcd4-8c58f3f234f6
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666648365238	geckodriver	INFO	Listening on 127.0.0.1:52127
+1666648365682	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9JVcuI"
+Gtk-Message: 16:52:45.757: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:52:45.758: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666648366412	Marionette	INFO	Marionette enabled
+1666648366415	Marionette	INFO	Listening on port 38703
+Read port: 38703
+WebDriver BiDi listening on ws://127.0.0.1:53163
+1666648367024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9JVcuI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53163/devtools/browser/cca55c89-1091-4cc1-b286-43c41ee36127
+1666648370379	geckodriver	INFO	Listening on 127.0.0.1:53107
+1666648370798	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1vzzH4"
+Gtk-Message: 16:52:50.873: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:52:50.875: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666648371542	Marionette	INFO	Marionette enabled
+1666648371565	Marionette	INFO	Listening on port 33121
+Read port: 33121
+WebDriver BiDi listening on ws://127.0.0.1:44935
+1666648371652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1vzzH4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44935/devtools/browser/eedcf68e-4915-43ff-a802-d73b5a020bd1
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666648422490	Marionette	INFO	Stopped listening on port 38703
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666648433236	Marionette	INFO	Stopped listening on port 33121
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666648543172	geckodriver	INFO	Listening on 127.0.0.1:51551
+1666648543606	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyusYh1"
+Gtk-Message: 16:55:43.679: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:55:43.680: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666648544331	Marionette	INFO	Marionette enabled
+1666648544335	Marionette	INFO	Listening on port 40577
+Read port: 40577
+WebDriver BiDi listening on ws://127.0.0.1:44303
+1666648544880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyusYh1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44303/devtools/browser/bc268492-3f7c-4e93-8f85-0e84f21f4ef2
+1666648547718	geckodriver	INFO	Listening on 127.0.0.1:50271
+1666648548146	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilem2pd7A"
+Gtk-Message: 16:55:48.226: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:55:48.227: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666648548912	Marionette	INFO	Marionette enabled
+1666648548915	Marionette	INFO	Listening on port 45269
+Read port: 45269
+WebDriver BiDi listening on ws://127.0.0.1:58013
+1666648549002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem2pd7A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58013/devtools/browser/f1bd2158-f921-4cc1-98d6-67e416e7cff9
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666648586753	Marionette	INFO	Stopped listening on port 45269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666648587812	Marionette	INFO	Stopped listening on port 40577
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666648651136	geckodriver	INFO	Listening on 127.0.0.1:38535
+1666648651598	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWad3PF"
+Gtk-Message: 16:57:31.671: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:57:31.672: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666648652319	Marionette	INFO	Marionette enabled
+1666648652322	Marionette	INFO	Listening on port 41045
+Read port: 41045
+WebDriver BiDi listening on ws://127.0.0.1:59001
+1666648652867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWad3PF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59001/devtools/browser/99d3a1e5-afe1-4d6a-b7fa-313562387bc6
+1666648656023	geckodriver	INFO	Listening on 127.0.0.1:50161
+1666648656454	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqM1Ry0"
+Gtk-Message: 16:57:36.527: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:57:36.529: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666648657193	Marionette	INFO	Marionette enabled
+1666648657197	Marionette	INFO	Listening on port 43273
+Read port: 43273
+WebDriver BiDi listening on ws://127.0.0.1:56551
+1666648657808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqM1Ry0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56551/devtools/browser/e8e50dc8-de20-4f58-a47a-c7b85ae59c57
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666648760998	Marionette	INFO	Stopped listening on port 43273
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666648762357	Marionette	INFO	Stopped listening on port 41045
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666648877184	geckodriver	INFO	Listening on 127.0.0.1:48541
+1666648877638	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4BxTRr"
+Gtk-Message: 17:01:17.711: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:01:17.712: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666648878376	Marionette	INFO	Marionette enabled
+1666648878380	Marionette	INFO	Listening on port 35529
+Read port: 35529
+WebDriver BiDi listening on ws://127.0.0.1:59719
+1666648878885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4BxTRr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59719/devtools/browser/58d79816-ccf1-4637-a4fa-415ca23b9295
+1666648882365	geckodriver	INFO	Listening on 127.0.0.1:36981
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666648882806	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52123" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile09WvMh"
+Gtk-Message: 17:01:22.885: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:01:22.887: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666648883612	Marionette	INFO	Marionette enabled
+1666648883615	Marionette	INFO	Listening on port 40075
+WebDriver BiDi listening on ws://127.0.0.1:52123
+Read port: 40075
+1666648885456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile09WvMh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52123/devtools/browser/3520e51d-86c8-4ded-9edd-a8676263c832
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666648928375	Marionette	INFO	Stopped listening on port 40075
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666648929463	Marionette	INFO	Stopped listening on port 35529
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666649020511	geckodriver	INFO	Listening on 127.0.0.1:41557
+1666649020974	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileA1Lrhx"
+Gtk-Message: 17:03:41.047: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:03:41.049: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666649021700	Marionette	INFO	Marionette enabled
+1666649021703	Marionette	INFO	Listening on port 46803
+Read port: 46803
+WebDriver BiDi listening on ws://127.0.0.1:53883
+1666649022256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA1Lrhx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53883/devtools/browser/f52c76fb-eeaf-4582-9fe1-cf7a6f1b27af
+1666649025628	geckodriver	INFO	Listening on 127.0.0.1:42481
+1666649026070	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKotD7R"
+Gtk-Message: 17:03:46.147: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:03:46.149: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666649026809	Marionette	INFO	Marionette enabled
+1666649026813	Marionette	INFO	Listening on port 42319
+Read port: 42319
+WebDriver BiDi listening on ws://127.0.0.1:43937
+1666649027604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKotD7R/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43937/devtools/browser/b5a05005-8b21-49fe-bbc1-9985ea308164
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
